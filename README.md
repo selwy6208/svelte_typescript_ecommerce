@@ -9,8 +9,8 @@
 
 <!-- <a href="https://codenx.slack.com" target="blank">![Branch Develop](https://img.shields.io/badge/community%20chat-slack-FF1493.svg?style=for-the-badge&logo=Slack&logoColor=white)</a> -->
 
-<a href="https://join.skype.com/invite/aBegFXZGdaPh" target="blank">![Branch Develop](https://img.shields.io/badge/Skype%20Message-%252300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)</a>
-<a href="https://t.me/itswadesh" target="blank">![Branch Develop](https://img.shields.io/badge/Telegram%20Message-%2300AFF0.svg?style=for-the-badge&logo=Telegram&logoColor=white)</a>
+<a href="https://skype.com/invite/ilovefuture" target="blank">![Branch Develop](https://img.shields.io/badge/Skype%20Message-%252300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)</a>
+<a href="https://t.me/danilphm" target="blank">![Branch Develop](https://img.shields.io/badge/Telegram%20Message-%2300AFF0.svg?style=for-the-badge&logo=Telegram&logoColor=white)</a>
 
 # Svelte Commerce?
 
@@ -31,10 +31,6 @@ Demo <a href="https://kitcommerce.tech/" target="blank">Kitcommerce.tech</a>
 - 🐛 If you have discovered a bug or have feature suggestion, feel free to create/join a discussion on Github.
 - 👍 I have been supporting this project alone since 2019. Any little code contribution will be appreciated
 - ✨ Deployment to Netlify or Vercel with zero-configuration
-
-|                                                                                                                                           |                                                                                                                                             |                                                                                                                                           |
-| :---------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://res.cloudinary.com/itswadesh/image/upload/c_scale,f_auto,w_250/v1627577152/sveltekit/svelte-commerce-home.png" alt=""/> | <img src="https://res.cloudinary.com/itswadesh/image/upload/c_scale,f_auto,w_250/v1627577152/sveltekit/svelte-commerce-detail.png" alt=""/> | <img src="https://res.cloudinary.com/itswadesh/image/upload/c_scale,f_auto,w_250/v1627577154/sveltekit/svelte-commerce-cart.png" alt=""/> |
 
 # Latest Updates
 
@@ -69,15 +65,6 @@ Open http://localhost:3000 on chrome. Your app should be live with awesome svelt
 
 If required change `config/index.ts` according to your requirement
 
-# Deployment
-
-Click on the button to directly deploy to Netlify or Vercel. Zero configuration required.
-
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/itswadesh/svelte-commerce">
-<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to netlify">
-</a>
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fitswadesh%2Fsvelte-commerce&demo-title=SvelteKit%20Commerce)
 
 # Features
 
@@ -105,7 +92,7 @@ Click on the button to directly deploy to Netlify or Vercel. Zero configuration 
 
 # Contributing
 
-If you like the ideas behind Svelte Commerce and want to become a contributor - join github discussions, check the list of the active issues or contact me directly via swadesh@litekart.in
+If you like the ideas behind Svelte Commerce and want to become a contributor - join github discussions, check the list of the active issues or contact me directly via babidev6208@gmail.com
 
 # Thank
 
@@ -119,5 +106,3 @@ You can support me in various ways:
 
 - <b>Contribute</b> - Support this project by contributing some ideas or directing digging into the source code and improving it.
 - <b>Evangelize</b> - Tweet about the project, take some speaking slot at a tech conference, etc.
-
-<a href='https://ko-fi.com/itswadesh' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee' /></a>
