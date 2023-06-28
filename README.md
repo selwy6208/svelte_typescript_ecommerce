@@ -51,7 +51,7 @@ Demo <a href="https://kitcommerce.tech/" target="blank">Kitcommerce.tech</a>
 Install - [NodeJS](https://nodejs.org/en/) - [Yarn](https://yarnpkg.com/en/) - [Git](https://git-scm.com/)
 
 ```
-git clone https://github.com/itswadesh/svelte-commerce.git
+git clone https://github.com/strong6208/top_svelte_ecommerce
 cd svelte-commerce
 yarn
 yarn dev
